@@ -1,1 +1,16 @@
-{}
+{
+    "poweredBy": "Powered by ulszkolna.pl",
+    "stopped": "Stopped station stream.",
+    "streamingStation": "Streaming station",
+    "stationProgram": "Current station program",
+    "whatListening": "What is listening",
+    "station": "Station",
+    "connectedServers": "Connected servers",
+    "stationEmpty": "Nobody's listening this station",
+    "listeningToStation": "You're listening to the station",
+    "currentBroadcastingProgram": "I'm currently broadcasting the program",
+    "title": "Title",
+    "artist": "Artist",
+    "player": "Player",
+    "playingNext": "And in a moment"
+}

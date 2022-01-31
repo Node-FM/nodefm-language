@@ -1,0 +1,30 @@
+{
+    "description": "🎵 Manage radio on your server.",
+    "subcommands": {
+        "station": {
+            "name": "station",
+            "description": "🎵 Play music from your favorite station.",
+            "optionMenu": {
+                "name": "stations",
+                "description": "🎵 Select station to play.",
+                "choicesNames": {
+                    "christmas": "Christmas",
+                    "justHits": "Just Hits",
+                    "rockIt": "Rock It!"
+                }
+            }
+        },
+        "stop": {
+            "name": "stop",
+            "description": "🎵 Stop playing music."
+        },
+        "nowPlaying": {
+            "name": "nowplaying",
+            "description": "🎵 Check now playing music."
+        },
+        "stats": {
+            "name": "stats",
+            "description": "🎵 See stats of all stations."
+        }
+    }
+}
