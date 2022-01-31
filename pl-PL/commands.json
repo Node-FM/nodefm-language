@@ -1,14 +1,14 @@
 {
-    "description": "🎵 Manage radio on your server.",
+    "description": "🎵 Zarządzaj radiem na swoim serwerze.",
     "subcommands": {
         "station": {
-            "name": "station",
-            "description": "🎵 Play music from your favorite station.",
+            "name": "stacja",
+            "description": "🎵 Odtwórz muzykę ze swojej ulubionej stacji.",
             "optionMenu": {
-                "name": "stations",
-                "description": "🎵 Select station to play.",
+                "name": "stacje",
+                "description": "🎵 Wybierz stację, którą mam transmitować.",
                 "choicesNames": {
-                    "christmas": "Christmas",
+                    "christmas": "Święta",
                     "justHits": "Just Hits",
                     "rockIt": "Rock It!"
                 }
@@ -16,15 +16,15 @@
         },
         "stop": {
             "name": "stop",
-            "description": "🎵 Stop playing music."
+            "description": "🎵 Spraw, by szafa przestała grać."
         },
         "nowPlaying": {
             "name": "nowplaying",
-            "description": "🎵 Check now playing music."
+            "description": "🎵 Sprawdź, co się słucha."
         },
         "stats": {
-            "name": "stats",
-            "description": "🎵 See stats of all stations."
+            "name": "statystyki",
+            "description": "🎵 Zobacz, czego słuchają inni."
         }
     }
 }

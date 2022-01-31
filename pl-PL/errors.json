@@ -1,5 +1,5 @@
 {
-    "notInVoiceChannel": ":x: You're not in a voice channel!",
-    "noDjRole": ":x: You need DJ role to use this command. If there's no DJ role on this server, create one with word **DJ** in the name of the role.",
-    "noStationConnected": "This server is not connected to any available station!"
+    "notInVoiceChannel": ":x: Nie jesteś na kanale głosowym!",
+    "noDjRole": ":x: Komenda dostępna dla użytkowników z rolą zawierającą słowo **dj** w nazwie.\nJeśli takiej nie ma na serwerze, utwórz ją.",
+    "noStationConnected": "Serwer nie jest podłączony do żadnej dostępnych stacji!"
 }
