@@ -1,8 +1,9 @@
 const { readdirSync } = require('fs');
+const path = require('path');
 
 let folders = [];
 
-readdirSync('./').filter(fldrs => fldrs.includes('-')).forEach(f => {
+readdirSync(path.resolve(__dirname)).filter(fldrs => fldrs.includes('-')).forEach(f => {
     folders.push(f);
 });
 
